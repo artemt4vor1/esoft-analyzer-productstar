@@ -1,0 +1,1 @@
+# esoft-analyzer-productstar
